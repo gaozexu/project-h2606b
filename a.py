@@ -1,4 +1,4 @@
-print('look at me baby i can see you ')
+print('look at me baby  ')
 
 
 print('gaozx is a very good man')
